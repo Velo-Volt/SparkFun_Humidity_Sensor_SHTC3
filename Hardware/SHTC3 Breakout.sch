@@ -16883,15 +16883,15 @@ the power LED</text>
 <instance part="SUPPLY2" gate="G$1" x="142.24" y="149.86" smashed="yes">
 <attribute name="VALUE" x="142.24" y="152.654" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="C1" gate="G$1" x="63.5" y="124.46" smashed="yes">
-<attribute name="NAME" x="65.024" y="127.381" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="65.024" y="122.301" size="1.778" layer="96" font="vector"/>
+<instance part="C1" gate="G$1" x="68.58" y="124.46" smashed="yes">
+<attribute name="NAME" x="70.104" y="127.381" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="70.104" y="122.301" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="SUPPLY3" gate="G$1" x="63.5" y="132.08" smashed="yes">
-<attribute name="VALUE" x="63.5" y="134.874" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY3" gate="G$1" x="68.58" y="132.08" smashed="yes">
+<attribute name="VALUE" x="68.58" y="134.874" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="GND2" gate="1" x="63.5" y="116.84" smashed="yes">
-<attribute name="VALUE" x="60.96" y="114.3" size="1.778" layer="96" font="vector"/>
+<instance part="GND2" gate="1" x="68.58" y="116.84" smashed="yes">
+<attribute name="VALUE" x="66.04" y="114.3" size="1.778" layer="96" font="vector"/>
 </instance>
 <instance part="LOGO2" gate="G$1" x="190.5" y="40.64" smashed="yes"/>
 <instance part="LOGO3" gate="G$1" x="190.5" y="40.64" smashed="yes"/>
@@ -16936,7 +16936,7 @@ the power LED</text>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
 <pinref part="SUPPLY3" gate="G$1" pin="3.3V"/>
-<wire x1="63.5" y1="129.54" x2="63.5" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="129.54" x2="68.58" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="SUPPLY10" gate="G$1" pin="3.3V"/>
@@ -16977,7 +16977,7 @@ the power LED</text>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="63.5" y1="119.38" x2="63.5" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="119.38" x2="68.58" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SCL" class="0">
