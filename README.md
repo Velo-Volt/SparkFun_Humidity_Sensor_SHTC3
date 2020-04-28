@@ -1,7 +1,7 @@
 SparkFun Humidity Sensor - SHTC3 (Qwiic)
 ========================================
 
-![SparkFun Humidity Sensor - SHTC3 (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/3/4/2/0/15074-SparkX_Humidity_Sensor_Breakout_SHTC3__Qwiic_-01.jpg)
+[![SparkFun Humidity Sensor - SHTC3 (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/5/3/3/0/16467-SparkFun_Humidity_Sensor_Breakout_-_SHTC3__Qwiic_-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/5/3/3/0/16467-SparkFun_Humidity_Sensor_Breakout_-_SHTC3__Qwiic_-01.jpg)
 
 [*SparkFun Humidity Sensor - SHTC3 (Qwiic)*](https://www.sparkfun.com/products/16467)
 
