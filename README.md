@@ -17,7 +17,7 @@ Repository Contents
 Documentation
 --------------
 * **[SHTC3 Arduino Library](https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library)** - Arduino library for the SHTC3.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-humidity-sensor---shtc3-qwiic-hookup-guide)** - Basic hookup guide for the Humidity Sensor - SHTC3 (Qwiic).
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-humidity-sensor-breakout---shtc3-qwiic-hookup-guide)** - Basic hookup guide for the Humidity Sensor - SHTC3 (Qwiic).
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
